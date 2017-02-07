@@ -1,0 +1,107 @@
+---
+title: "Kardex"
+author: "Mishelle Herrera"
+date: "6 de febrero de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+#Historial Academico
+##Primer semestre
+
+Introduccion a la profesion actuarial.08
+
+Programacion actuarial................06
+
+DHPC..................................09
+
+##Segundo semestre
+
+Teoria del interes 1..................07
+
+DHTIC.................................10
+
+Geometria analitica...................10
+
+Matematicas basicas...................10
+
+Problemas de matematicas basicas......10
+
+Conceptos de calculo..................10
+
+##Tercer semestre
+
+Teoria del interes 2..................07
+
+Microeconomia.........................08
+
+RACE..................................08
+
+Calculo diferencial...................08
+
+Teoria de ecuaciones..................10
+
+##Cuarto semestre
+
+SFM...................................10
+
+Macroeconomia.........................09
+
+FHS...................................09
+
+Calculo integral......................08
+
+Algebra lineal........................09
+
+##Quinto semestre
+
+Contabilidad general..................07
+
+Demografia............................08
+
+Calculo diferencial en varias.........06
+
+Ecuaciones diferenciales 1............07
+
+Estructuras algebraicas...............06
+
+##Sexto semestre
+
+Legislacion de seguros................10
+
+Derivados financieros.................06
+
+Programacion lineal...................08
+
+Probabilidad 1........................08
+
+##Septimo semestre
+
+Programacion actuarial 2..............08
+
+Matematicas actuariales 1.............07
+
+Econometria 1.........................08
+
+Programacion no lineal................08
+
+##Octavo semestre
+
+###En curso
+
+Topicos avanzados de finanzas
+
+Estadistica 1
+
+Probabilidad 2
+
+Matematicas actuariales 2
+
+Econometria 2
+
+Programacion actuarial 3
